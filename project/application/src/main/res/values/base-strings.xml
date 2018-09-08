@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <string name="app_name">Hypered Now</string>
+  <string name="intro_message">
+    <![CDATA[
+Beginning of Hypered Now. This sends notifications on two channels, with
+buttons going to the channel settings.
+        ]]>
+  </string>
+</resources>

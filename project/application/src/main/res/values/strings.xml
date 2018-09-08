@@ -1,0 +1,17 @@
+<resources>
+  <string name="noti_channel_default">Primary Channel</string>
+  <string name="noti_channel_second">Secondary Channel</string>
+
+  <string name="primary_body">Primary notification body.</string>
+  <string name="secondary_body">Secondary notification body.</string>
+
+  <string name="main_primary_title">Primary Channel</string>
+  <string name="main_primary_send">Send Primary</string>
+  <string name="main_primary_config">Go to primary settings</string>
+
+  <string name="main_secondary_title">Secondary Channel</string>
+  <string name="main_secondary_send">Send Secondary</string>
+  <string name="main_secondary_config">Go to secondary settings</string>
+
+  <string name="btnA_title">Go to Settings</string>
+</resources>
